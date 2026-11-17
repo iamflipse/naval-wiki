@@ -1,0 +1,7 @@
+[book]
+title = "Naval"
+authors = ["iamflipse"]
+description = "The Naval notebook: 152 sources on wealth, leverage, judgment, and the long game."
+
+[build]
+charset = "utf-8"
